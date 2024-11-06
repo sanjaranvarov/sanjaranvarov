@@ -16,7 +16,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaranvarov&" alt="sanjaranvarov" /></p>
 
-| <a href="https://github.com/sanjaranvarov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaranvarov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sanjaranvarov" /></a> | <a href="https://github.com/sanjaranvarov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaranvarov&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaranvarov&show_icons=true&locale=en" alt="sanjaranvarov" /></p>
+ | <a href="https://github.com/sanjaranvarov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaranvarov&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
