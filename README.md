@@ -1,4 +1,4 @@
-<h1 align="center">**Assalomu Alaykum**</h1>
+<h1 align="center">Assalomu Alaykum</h1>
 <h3 align="center">Student at PDP University</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
 
