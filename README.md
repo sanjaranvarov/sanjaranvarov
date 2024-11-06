@@ -1,19 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sanjar</h1>
+<h1 align="center">Assalomu Alaykum, I'm Sanjar</h1>
 <h3 align="center">Student at PDP University</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaranvarov&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaranvarov" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sanjaranvarovs" target="blank"><img src="https://img.shields.io/twitter/follow/sanjaranvarovs?logo=twitter&style=for-the-badge" alt="sanjaranvarovs" /></a> </p>
-
-- 🌱 I’m currently learning **Flutter and Dart**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sanjaranvarovs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanjaranvarovs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanjaranvarovs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanvaranjarovs" height="30" width="40" /></a>
-<a href="//www.facebook.com/sanjaranvarovs?mibextid=hIlR13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjar" height="30" width="40" /></a>
-<a href="https://instagram.com/sanjaranvarovs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjaranvarovs" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sanjaranvarovs?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanjaranvarovs" height="30" width="40" /></a>
 </p>
 
