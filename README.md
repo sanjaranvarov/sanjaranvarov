@@ -16,7 +16,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaranvarov&" alt="sanjaranvarov" /></p>
 
-|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaranvarov&show_icons=true&locale=en" alt="sanjaranvarov" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaranvarov&show_icons=true&locale=en&layout=compact" alt="sanjaranvarov" /></a> |
+|  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaranvarov&show_icons=true&locale=en" alt="sanjaranvarov" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaranvarov&show_icons=true&locale=en&layout=compact" alt="sanjaranvarov" />|
 | ------------- | ------------- |
 
 
