@@ -9,8 +9,9 @@
 <a href="https://linkedin.com/in/sanjaranvarovs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanvaranjarovs" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@sanjaranvarovs?sub_confirmation=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sanjaranvarovs" height="30" width="40" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaranvarov&show_icons=true&locale=en&layout=compact" alt="sanjaranvarov" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjaranvarov&show_icons=true&locale=en" alt="sanjaranvarov" /></p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjaranvarov&show_icons=true&locale=en&layout=compact" alt="sanjaranvarov" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaranvarov&" alt="sanjaranvarov" /></p>
