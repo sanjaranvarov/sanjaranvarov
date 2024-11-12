@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, welcome to my projects !👌</h1>
 
-<p>Nowadays, I am a student at <a href="https://university.pdp.uz/uz" target="_blank">PDP University</a>.</p>
+<p>Nowadays, I am a student at <a href="https://university.pdp.uz/uz" target="_blank" rel="noopener noreferrer">PDP University</a>.</p>
 
 <p> </p>
 
