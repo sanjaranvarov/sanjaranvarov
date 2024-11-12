@@ -1,6 +1,8 @@
 <h1 align="center">Hi there, welcome to my projects !👌</h1>
 
-<p>Nowadays, I am a student at PDP University.</p>
+<p>Nowadays, I am a student at <a href="https://university.pdp.uz/uz" target="_blank">PDP University</a>.</p>
+
+<p> </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaranvarov&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaranvarov" /> </p>
